@@ -25,8 +25,8 @@
 - ✨ I have a solid background in many algorithms and data structures. 
 - ✨ I have a small backgorund in Machine Learning and used some Deep Learning techniques in my [graduation project](https://github.com/The-revolutionary-army/Engagement-and-comprehension-level-detection).
 - ✨ I’m Familiar with Embedded systems basics and made some cool embedded projects.</br>
-Here is my most viewed embedded project 👇
-[![Tea maker Machine](https://img.youtube.com/vi/C6J9Zjz5MuI/0.jpg)](https://www.youtube.com/watch?v=C6J9Zjz5MuI) 
+Here is my most viewed embedded project 👇 </br> 
+<p align="center"> <a href="https://www.youtube.com/watch?v=C6J9Zjz5MuI"><img src="https://img.youtube.com/vi/C6J9Zjz5MuI/0.jpg" alt="Tea maker Machine" /></a> </p>
 
 <h2>🏆 Github Trophies</h2>
 
